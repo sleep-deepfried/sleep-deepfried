@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:khaledb.dev@gmail.com)
+[Email Me](mailto:pulidoearljohn14@gmail.com)
 </div>
 </p>    
 <br>
@@ -41,12 +41,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>    
@@ -56,9 +50,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
@@ -67,12 +58,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
       <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
